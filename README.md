@@ -1,2 +1,2 @@
 # Pizza_Sales
-Here I have created the dashboards for the above data provided
+Here I have created the dashboards for the csv file provided
